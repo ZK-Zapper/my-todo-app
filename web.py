@@ -1,3 +1,5 @@
+#how it was before i commited :)
+
 import streamlit as st
 import functions
 
