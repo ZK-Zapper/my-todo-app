@@ -7,5 +7,5 @@ st.write("When your done with that todo click on the checkbox to show it as 'don
 
 st.write("We appreciate you using our website")
 
-st.write("<b>im broke<b>",
+st.write("<b>im still broke<b>",
          unsafe_allow_html=True)
