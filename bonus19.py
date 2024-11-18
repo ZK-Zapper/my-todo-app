@@ -15,3 +15,4 @@ if camera_image:
 
     # Render the grayscale image on the webpage
     st.image(gray_img)
+    st.rerun()
